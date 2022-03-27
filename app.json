@@ -8,7 +8,7 @@
         "bots"
     ],
     "website": "https://t.me/TgXBots",
-    "repository": "https://github.com/tgxbotz/TagChecker",
+    "repository": "https://github.com/Spacex69/TagChecker",
     "success_url": "https://telegram.dog/TheTelegramChats",
     "env": {
         "API_ID": {
